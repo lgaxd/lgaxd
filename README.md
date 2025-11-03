@@ -1,3 +1,5 @@
+## About Me
+
 I’m a Product Manager at Software.com.br, responsible for the AnyDesk portfolio, with a strong focus on software development and systems design. My background blends technical execution with business impact — building APIs, integrations, dashboards, and automation tools while enabling technical sales through demos, onboarding, and proof-of-concept development.
 
 Currently pursuing a degree in Systems Engineering at FIAP, I’m transitioning fully into back-end engineering, specializing in Java and Node.js, and aiming to build scalable, well-structured applications.

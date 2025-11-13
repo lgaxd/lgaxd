@@ -8,9 +8,9 @@ Currently pursuing a degree in Systems Engineering at FIAP, I’m transitioning 
 
 - **Languages:** Java, JavaScript (Node.js), Python, TypeScript
 - **Back-end Development:** RESTful APIs, Java-based microservices, integration design
-- **Front-end Prototyping:** Responsive dashboards and admin panels (React, Tailwind, Vue.js)
+- **Front-end Prototyping:** Responsive dashboards and admin panels (React, Tailwind)
 - **Automation:** Workflow automation, Discord bots, scripting, Node-RED
-- **Integrations:** API design and implementation, AnyDesk integration POCs
+- **Integrations:** API design and implementation, systems integration POCs
 - **Product & Collaboration:** Technical demos, requirement analysis, stakeholder alignment
 
 ![lgaxd's Stats](https://github-readme-stats.vercel.app/api?username=lgaxd&theme=transparent&show_icons=true&hide_border=true&count_private=true)

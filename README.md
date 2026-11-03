@@ -36,6 +36,7 @@ Currently studying Systems Analysis and Development at FIAP, with strong interes
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="45" height="45" alt="Docker"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" alt="PostgreSQL"/>
+<img src=https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg width="45" height="45" alt="Azure DevOps"/>
 
 </div>
 
@@ -73,6 +74,7 @@ Currently studying Systems Analysis and Development at FIAP, with strong interes
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VSCode"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width="45" height="45" alt="IntelliJ"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="45" height="45" alt="Azure"/>
+<img src=https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg width="45" height="45" alt="Azure DevOps"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/portainer/portainer-original.svg" width="45" height="45" alt="Portainer"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/proxmox/proxmox-original.svg" width="45" height="45" alt="Proxmox"/>
 

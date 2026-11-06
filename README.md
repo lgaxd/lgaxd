@@ -2,7 +2,7 @@
 
 <p align="center">
 Back-end Developer focused on Java, .NET & Node.js <br>
-Product Manager at <a href="https://software.com.br">Software.com.br</a> working with the AnyDesk portfolio
+Product Manager at <a href="https://software.com.br">Software.com.br</a> working with the AnyDesk and Figma portfolio
 </p>
 
 ---

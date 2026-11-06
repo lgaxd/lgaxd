@@ -132,15 +132,6 @@ Strong interests in:
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lgaxd&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Lucas's GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgaxd&layout=compact&langs_count=10&theme=github_dark&hide_border=true" alt="Most used languages"/>
-</p>
-
----
-
 ## Current Focus
 
 - Building **Vê AI**, a generative AI accessibility app (FIAP final project)
